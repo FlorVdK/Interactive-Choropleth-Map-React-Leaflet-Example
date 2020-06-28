@@ -5,7 +5,7 @@
   "dependencies": {
     "leaflet": "^1.4.0",
     "mapbox-gl": "^0.53.1",
-    "mapbox-gl-leaflet": "0.0.4",
+    "mapbox-gl-leaflet": "0.0.12",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-leaflet": "^2.2.1",
