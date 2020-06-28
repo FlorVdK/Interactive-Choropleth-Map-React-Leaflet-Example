@@ -8,7 +8,7 @@
     "mapbox-gl-leaflet": "0.0.4",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-leaflet": "^2.2.1",
+    "react-leaflet": "^2.7.0",
     "react-scripts": "2.1.8"
   },
   "scripts": {
